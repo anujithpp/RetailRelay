@@ -1,2 +1,7 @@
 # RetailRelay
-Retail and Supply management app
+A full-stack app for managing inventory and supplier workflows.  
+
+## Tech Stack  
+- Frontend: React.js  
+- Backend: Node.js/Express  
+- Database: PostgreSQL  
